@@ -1,0 +1,21 @@
+Hola Lucas, buenos días. 
+
+Espero te estes bien.
+
+No sabría cual sería el error porque en la captura no lo veo xD. Pasame luego el error y veremos que puede ser, tenes las variables del .env?
+
+Abrazo.
+
+
+Recargue la página porque me pareció rara la img, y ahora si la pude ver completa, 
+me parecia raro.
+
+Por las dudas 1ero, modifica el nombre de la carpeta, no coloques espacios porque 
+a veces ocurren errores dejalo como "Desafio39_BIS", en vez delespacio usa el guión bajo. 
+Segundo borra el nodemodules y corre npm i (pero esto luego de hacer el re nombrado de 
+la carpeta)
+
+Al margen el error es de un import y puede ser que te falte agregar ".js" en el utils/
+index 
+
+Abrazo.
